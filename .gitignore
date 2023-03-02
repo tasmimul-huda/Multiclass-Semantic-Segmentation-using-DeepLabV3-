@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# data
+instance-level-human-parsing/
+
 # Spyder project settings
 .spyderproject
 .spyproject
